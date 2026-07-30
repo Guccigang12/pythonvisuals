@@ -15,7 +15,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import uvicorn
 
 # --- НАСТРОЙКИ ---
-BOT_TOKEN = "7723298001:AAEqIhvfOo-uoi5keS6--a5mfFc9gC4oL-I"
+BOT_TOKEN = "8826829961:AAGVqWOzNVoP-vmwDoVcIHRexQSs6RsO6mI"
 ADMIN_ID = 1186053117
 
 DATABASE_URL = os.environ.get("DATABASE_URL")
